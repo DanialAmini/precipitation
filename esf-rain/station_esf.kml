@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>station_esf.kml</name>
+	<Style id="point1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="point10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="point11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#point10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#point1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>station_esf</name>
+		<open>1</open>
+		<Placemark>
+			<description>Unknown Point Feature</description>
+			<styleUrl>#point11</styleUrl>
+			<Point>
+				<coordinates>50.1230555556,32.4586111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Unknown Point Feature</description>
+			<styleUrl>#point11</styleUrl>
+			<Point>
+				<coordinates>50.3577777778,32.4011111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Unknown Point Feature</description>
+			<styleUrl>#point11</styleUrl>
+			<Point>
+				<coordinates>50.60305555559999,32.5888888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Unknown Point Feature</description>
+			<styleUrl>#point11</styleUrl>
+			<Point>
+				<coordinates>50.435,32.5905555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Unknown Point Feature</description>
+			<styleUrl>#point11</styleUrl>
+			<Point>
+				<coordinates>50.50361111110001,32.4772222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Unknown Point Feature</description>
+			<styleUrl>#point11</styleUrl>
+			<Point>
+				<coordinates>50.4352777778,31.8186111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Unknown Point Feature</description>
+			<styleUrl>#point11</styleUrl>
+			<Point>
+				<coordinates>50.4530555556,32.6627777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Unknown Point Feature</description>
+			<styleUrl>#point11</styleUrl>
+			<Point>
+				<coordinates>50.5236111111,32.7377777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Unknown Point Feature</description>
+			<styleUrl>#point11</styleUrl>
+			<Point>
+				<coordinates>50.7455555556,32.5386111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Unknown Point Feature</description>
+			<styleUrl>#point11</styleUrl>
+			<Point>
+				<coordinates>50.15944444439999,33.0761111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Unknown Point Feature</description>
+			<styleUrl>#point11</styleUrl>
+			<Point>
+				<coordinates>50.2405555556,33.0775,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Unknown Point Feature</description>
+			<styleUrl>#point11</styleUrl>
+			<Point>
+				<coordinates>50.7583333333,32.9219444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Unknown Point Feature</description>
+			<styleUrl>#point11</styleUrl>
+			<Point>
+				<coordinates>50.8227777778,32.8808333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Unknown Point Feature</description>
+			<styleUrl>#point11</styleUrl>
+			<Point>
+				<coordinates>50.7469444444,32.73,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Unknown Point Feature</description>
+			<styleUrl>#point11</styleUrl>
+			<Point>
+				<coordinates>50.6855555556,33.0880555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Unknown Point Feature</description>
+			<styleUrl>#point11</styleUrl>
+			<Point>
+				<coordinates>51.2305555556,32.3730555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Unknown Point Feature</description>
+			<styleUrl>#point11</styleUrl>
+			<Point>
+				<coordinates>52.59444444439999,32.8183333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Unknown Point Feature</description>
+			<styleUrl>#point11</styleUrl>
+			<Point>
+				<coordinates>51.1933333333,33.4141666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Unknown Point Feature</description>
+			<styleUrl>#point11</styleUrl>
+			<Point>
+				<coordinates>52.1333333333,31.5197222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Unknown Point Feature</description>
+			<styleUrl>#point11</styleUrl>
+			<Point>
+				<coordinates>51.4983333333,32.5022222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Unknown Point Feature</description>
+			<styleUrl>#point11</styleUrl>
+			<Point>
+				<coordinates>51.615,32.8061111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Unknown Point Feature</description>
+			<styleUrl>#point11</styleUrl>
+			<Point>
+				<coordinates>51.80666666670001,32.2722222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Unknown Point Feature</description>
+			<styleUrl>#point11</styleUrl>
+			<Point>
+				<coordinates>52.4394444444,32.7511111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Unknown Point Feature</description>
+			<styleUrl>#point11</styleUrl>
+			<Point>
+				<coordinates>52.0033333333,31.8161111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Unknown Point Feature</description>
+			<styleUrl>#point11</styleUrl>
+			<Point>
+				<coordinates>51.94,32.5061111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Unknown Point Feature</description>
+			<styleUrl>#point11</styleUrl>
+			<Point>
+				<coordinates>51.48611111110001,33.0761111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Unknown Point Feature</description>
+			<styleUrl>#point11</styleUrl>
+			<Point>
+				<coordinates>52.6469444444,32.4194444444,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
